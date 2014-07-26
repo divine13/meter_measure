@@ -21,7 +21,7 @@ class MetersController < ApplicationController
   end 
 
   def get_newer
-    @newer = Meter.where("made_at > #{params[:made_at]}")
+    @newer = Meter.where("uploaded = false and #{params[:phone_id]} != phone_id")
     @newer
   end 
 

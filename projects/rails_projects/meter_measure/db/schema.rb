@@ -11,16 +11,9 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140721153321) do
+ActiveRecord::Schema.define(version: 20140726222525) do
 
-  create_table "meters", force: true do |t|
-    t.string   "day"
-    t.string   "time"
-    t.integer  "reading"
-    t.string   "note"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-    t.text     "made_at"
-  end
+# Could not dump table "meters" because of following NoMethodError
+#   undefined method `[]' for nil:NilClass
 
 end
