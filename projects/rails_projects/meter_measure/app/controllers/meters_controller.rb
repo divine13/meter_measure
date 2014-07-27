@@ -45,13 +45,8 @@ class MetersController < ApplicationController
     @check = Meter.where("'#{params[:phone_id]}' != phone_id").count
      #if 0 then this means that nothing was uploaded by this another besides this one 
           render status: :ok,   # too much fat 
-          json: {
-            success: false, 
-            info: "empty",
-            data:  {meter: {
-              check: "#{@check}" #this is probably bad should change this this to check
-              }}
-          }
+         text: @check
+          
   end 
 
  private 
