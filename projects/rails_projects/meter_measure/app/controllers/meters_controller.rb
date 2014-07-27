@@ -21,7 +21,7 @@ class MetersController < ApplicationController
   end 
 
   def get_newer
-    @newer = Meter.where("uploaded = false and #{params[:phone_id]} != phone_id")
+    @newer = Meter.where("'#{params[:phone_id]}' != phone_id")
     @newer
   end 
 
@@ -39,6 +39,19 @@ class MetersController < ApplicationController
               }}
           }
     end
+  end 
+
+  def check 
+    @check = Meter.where("'#{params[:phone_id]}' != phone_id").count
+     #if 0 then this means that nothing was uploaded by this another besides this one 
+          render status: :ok,   # too much fat 
+          json: {
+            success: false, 
+            info: "empty",
+            data:  {meter: {
+              check: "#{@check}" #this is probably bad should change this this to check
+              }}
+          }
   end 
 
  private 

@@ -1,9 +1,10 @@
 Rails.application.routes.draw do
 
   get 'meters' => 'meters#index', as: 'meters' 
-  get 'meters/last' => 'meters#get_last', as: 'last_meter'
+  get 'meters/last' => 'meters#get_last', as: 'last_meter' #remove this 
   post 'meters' => 'meters#create'
-  put 'meters/:made_at/newer' => 'meters#get_newer', as: 'newer_meters' 
+  put 'meters/:phone_id/newer' => 'meters#get_newer', as: 'newer_meters' 
+  put 'meters/:phone_id/check_for_me' => 'meters#check', as: 'check_meters' 
   
 
   # The priority is based upon order of creation: first created -> highest priority.
