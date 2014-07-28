@@ -9,7 +9,7 @@ class MetersController < ApplicationController
   def create 
   	@meter = Meter.new(meter_params)
   	if @meter.save
-  		@meter
+  		@meter 
   	else 
   		render status: :unprocessable_entity, 
   		    json: {
