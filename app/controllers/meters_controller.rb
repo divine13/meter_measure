@@ -44,7 +44,7 @@ class MetersController < ApplicationController
   def check 
     @check = Meter.where("'#{params[:phone_id]}' != phone_id").count
      #if 0 then this means that nothing was uploaded by this another besides this one 
-          render status: :ok,   # too much fat 
+          render status: :ok,  
          text: @check
           
   end 

@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  resources :users
+
   get 'meters' => 'meters#index', as: 'meters' 
   get 'meters/last' => 'meters#get_last', as: 'last_meter' #remove this 
   post 'meters' => 'meters#create'
