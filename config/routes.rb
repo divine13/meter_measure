@@ -2,12 +2,16 @@ Rails.application.routes.draw do
 
   resources :users
 
+  resources :sessions, only: [:create, :new, :destroy]
+
   get 'meters' => 'meters#index', as: 'meters' 
   get 'meters/last' => 'meters#get_last', as: 'last_meter' #remove this 
   post 'meters' => 'meters#create'
   put 'meters/:phone_id/newer' => 'meters#get_newer', as: 'newer_meters' 
   put 'meters/:phone_id/check_for_me' => 'meters#check', as: 'check_meters' 
   
+  # match 'signup' => 'users#new' 
+  # get 'signin' => 'sessions#new'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

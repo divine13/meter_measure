@@ -33,9 +33,9 @@ class MetersController < ApplicationController
       render status: :ok,   # too much fat 
           json: {
             success: false, 
-            info: "empty",
+            info: 'empty',
             data:  {meter: {
-              made_at: "-49494980099"
+              made_at: '-49494980099'
               }}
           }
     end

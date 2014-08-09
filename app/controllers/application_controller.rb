@@ -1,27 +1,26 @@
-class ApplicationController < ActionController::Base
-  # Prevent CSRF attacks by raising an exception.
-  # For APIs, you may want to use :null_session instead.
+ class ApplicationController < ActionController::Base
 
+  include SessionsHelper
 
   def to_my_json(user) #refactor to be able to be used with meter too
    render status: :ok, 
-  	json: {
-  	  success: true,
-  	  info: "user",
-  	  data: {
-  	  	user: user
-  	  }
-  	}
+   json: {
+     success: true,
+     info: "user",
+     data: {
+       user: user
+     }
+   }
   end
 
-  def my_json_error
-  	render status: :ok,
-  	json: {
-  		success: "false",
-  		info: "Error creating user",
-  		data: {
-  			error: "there was a problem creating the user"
-  		}
-  	}
+  def my_json_error #make this a bit more generic mje(msg)
+   render status: :ok,
+   json: {
+     success: "false",
+     info: "Error creuser",
+     data: {
+       error: "double check your input details please"
+     }
+   }
   end
-end
+ end

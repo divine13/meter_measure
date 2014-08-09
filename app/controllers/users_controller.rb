@@ -18,8 +18,9 @@ class UsersController < ApplicationController
      to_my_json(@user)
   end 
 
-  private 
+ 
   def user_params
   	params.require(:user).permit!
   end
+
 end
