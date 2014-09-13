@@ -2,12 +2,13 @@ class MetersController < ApplicationController
 
   skip_before_action :verify_authenticity_token
 
+
   def index
-  	@meters = Meter.all
+  	@meters = current_user(params[:email]).meters.build if signed_in?(params[:email])
   end
 
   def create 
-  	@meter = Meter.new(meter_params)
+  	@meter =  current_user(params[:email]).meters.new(meter_params)
   	if @meter.save
   		@meter 
   	else 
@@ -21,28 +22,27 @@ class MetersController < ApplicationController
   end 
 
   def get_newer
-    @newer = Meter.where("'#{params[:phone_id]}' != phone_id")
-    @newer
+    #suppose to return all that the user has followed but not that he has done
+    @newer =  current_user(params[:email]).meters.where("'#{params[:phone_id]}' != phone_id")
   end 
 
   def get_last #It would be much more efficient if i only got the created_at 
     if Meter.all.count > 0
        @last_meter = Meter.last
-      @last_meter  #not good lets first go stable and then optimize
     else 
       render status: :ok,   # too much fat 
           json: {
             success: false, 
             info: 'empty',
             data:  {meter: {
-              made_at: '-49494980099'
+              made_at: '-4'
               }}
           }
     end
   end 
 
   def check 
-    @check = Meter.where("'#{params[:phone_id]}' != phone_id").count
+    @check = current_user(params[:email]).meters.where("'#{params[:phone_id]}' != phone_id").count
      #if 0 then this means that nothing was uploaded by this another besides this one 
           render status: :ok,  
          text: @check

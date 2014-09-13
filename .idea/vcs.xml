@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../backups/zap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fashion_site/zap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../teketee_app" vcs="Git" />
   </component>
 </project>
 

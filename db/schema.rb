@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140809072238) do
+ActiveRecord::Schema.define(version: 20140912161210) do
 
 # Could not dump table "meters" because of following NoMethodError
 #   undefined method `[]' for nil:NilClass
@@ -24,6 +24,7 @@ ActiveRecord::Schema.define(version: 20140809072238) do
     t.string   "password_digest"
     t.string   "remember_token"
     t.integer  "meter_id"
+    t.text     "password"
   end
 
   add_index "users", ["email"], name: "index_users_on_email", unique: true

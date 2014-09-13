@@ -9,12 +9,11 @@ module SessionsHelper
 		@current_user = user
 	end
 
-	def current_user 
-		remember_token = User.digest(cookies[:remember_token])
-		@current_user ||= User.find_by(remember_token: remember_token)
+	def current_user(email)
+    @current_user ||= User.find_by_email(email)
 	end
 
-	def signed_in?
-		!current_user.nil?
+	def signed_in?(email)
+		!current_user(email).nil?
 	end
 end

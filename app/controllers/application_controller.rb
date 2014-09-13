@@ -17,7 +17,7 @@
    render status: :ok,
    json: {
      success: "false",
-     info: "Error creuser",
+     info: "Error creating user",
      data: {
        error: "double check your input details please"
      }
