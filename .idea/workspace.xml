@@ -3,37 +3,45 @@
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/../sphs/Gemfile" />
     <bookmark url="file://$PROJECT_DIR$/../sphs/config/initializers/devise.rb" line="15" />
-    <bookmark url="file://$PROJECT_DIR$/../sunward/app/views/layouts/_footer.html.erb" line="51" />
+    <bookmark url="file://$PROJECT_DIR$/../sunward/app/views/layouts/_footer.html.erb" line="52" />
     <bookmark url="file://$PROJECT_DIR$/../teketee_app/db" />
     <bookmark url="file://$PROJECT_DIR$/../sunward/app/assets/stylesheets/main.scss" />
     <bookmark url="file://$PROJECT_DIR$/../sunward/app/trash/application.css.scss" line="0" />
-    <bookmark url="file://$PROJECT_DIR$/../sunward/app/assets/stylesheets/main.scss" line="244" />
+    <bookmark url="file://$PROJECT_DIR$/../sunward/app/assets/stylesheets/main.scss" line="313" />
     <bookmark url="file://$PROJECT_DIR$/../sunward/db/migrate/20140907225013_create_admin_results.rb" line="2" />
     <bookmark url="file://$PROJECT_DIR$/../sunward/db/migrate/20140908011016_add_admin_available_sport_to_admin_team.rb" line="3" />
     <bookmark url="file://$PROJECT_DIR$/../sunward/app/models/admin/team.rb" line="14" />
     <bookmark url="file://$PROJECT_DIR$/../sunward/app/views/admin/mags/_form.html.erb" line="38" />
+    <bookmark url="file://$PROJECT_DIR$/app/controllers/users_controller.rb" line="25" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7aa9d037-366e-448c-835c-b34628138e7a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__meter_measure.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Development__teketee_app.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__meter_measure.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__teketee_app.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/layouts/_banner.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/shared/_page_header.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/shared/_page_name.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/school/_side_menu.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/staff/_side_menu.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/school/_subjects.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/school/achievements.html.erb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blog-master/.idea/blog-master.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/school/colours.html.erb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blog-master/.idea/dataSources.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../fashion_site/zap/config/dropbox.yml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blog-master/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/staff/groundsmen.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/staff/hods.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/school/index.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/school/metrics.html.erb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blog-master/.idea/misc.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blog-master/.idea/modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sphs/app/assets/javascripts/my_js_file.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/staff/rcls.html.erb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sphs/app/helpers/remember to create applicaton helper" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blog-master/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec__meter_measure.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test__meter_measure.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/staff/sgbs.html.erb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/staff/teachers.html.erb" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../blog-master/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../sunward/app/views/school/what_we_offer.html.erb" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../backups/zap/app/models/like.rb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../backups/zap/app/views/everyone/posts/_form.html.erb" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../backups/zap/app/views/everyone/posts/_post.html.erb" afterPath="" />
@@ -74,26 +82,31 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../sphs/app/assets/stylesheets/bootplus.min.css" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../sphs/app/assets/stylesheets/bootplus_overrides.less" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../sphs/app/helpers/application_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sunward/app/assets/images/emblem.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sunward/app/assets/images/mblem.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sunward/app/assets/images/thing.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../sunward/create_paper_clip.sh" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../backups/zap/.directory" afterPath="$PROJECT_DIR$/../../backups/zap/.directory" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blog-master/Gemfile.lock" afterPath="$PROJECT_DIR$/../blog-master/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fashion_site/zap/Gemfile.lock" afterPath="$PROJECT_DIR$/../fashion_site/zap/Gemfile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../backups/zap/Gemfile" afterPath="$PROJECT_DIR$/../../backups/zap/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blog-master/Gemfile" afterPath="$PROJECT_DIR$/../blog-master/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fashion_site/zap/Gemfile" afterPath="$PROJECT_DIR$/../fashion_site/zap/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sphs/Gemfile" afterPath="$PROJECT_DIR$/../sphs/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/Production__blog_master.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Production__blog_master.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blog-master/app/views/shared/_footer.html.erb" afterPath="$PROJECT_DIR$/../blog-master/app/views/shared/_footer.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/views/layouts/_footer.html.erb" afterPath="$PROJECT_DIR$/../sunward/app/views/layouts/_footer.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../teketee_app/app/views/files/_form.html.erb" afterPath="$PROJECT_DIR$/../teketee_app/app/views/files/_form.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../teketee_app/app/views/tickets/_form.html.erb" afterPath="$PROJECT_DIR$/../teketee_app/app/views/tickets/_form.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fashion_site/zap/app/views/layouts/_header.html.erb" afterPath="$PROJECT_DIR$/../fashion_site/zap/app/views/layouts/_header.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sphs/app/views/shared/_header.html.erb" afterPath="$PROJECT_DIR$/../sphs/app/views/shared/_header.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/views/layouts/_header.html.erb" afterPath="$PROJECT_DIR$/../sunward/app/views/layouts/_header.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/views/about/about.html.erb" afterPath="$PROJECT_DIR$/../sunward/app/views/about/about.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/controllers/about_controller.rb" afterPath="$PROJECT_DIR$/../sunward/app/controllers/about_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blog-master/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/../blog-master/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sphs/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/../sphs/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/../sunward/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sphs/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/../sphs/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sphs/app/assets/javascripts/bootstrap.js" afterPath="$PROJECT_DIR$/../sphs/app/assets/javascripts/bootstrap.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sphs/app/assets/javascripts/bootstrap.min.js" afterPath="$PROJECT_DIR$/../sphs/app/assets/javascripts/bootstrap.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/models/admin/champ.rb" afterPath="$PROJECT_DIR$/../sunward/app/models/admin/champ.rb" />
@@ -102,22 +115,23 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fashion_site/zap/app/views/static_pages/contact_us.html.erb" afterPath="$PROJECT_DIR$/../fashion_site/zap/app/views/static_pages/contact_us.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blog-master/app/assets/stylesheets/custom.css.scss" afterPath="$PROJECT_DIR$/../blog-master/app/assets/stylesheets/custom.css.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fashion_site/zap/app/assets/stylesheets/custom.css.scss" afterPath="$PROJECT_DIR$/../fashion_site/zap/app/assets/stylesheets/custom.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../teketee_app/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/../teketee_app/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../backups/zap/app/models/epost.rb" afterPath="$PROJECT_DIR$/../../backups/zap/app/models/epost.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/models/admin/groundsman.rb" afterPath="$PROJECT_DIR$/../sunward/app/models/admin/groundsman.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/models/admin/hod.rb" afterPath="$PROJECT_DIR$/../sunward/app/models/admin/hod.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/views/staff/index.html.erb" afterPath="$PROJECT_DIR$/../sunward/app/views/staff/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/views/static_pages/index.html.erb" afterPath="$PROJECT_DIR$/../sunward/app/views/static_pages/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../teketee_app/app/views/projects/index.html.erb" afterPath="$PROJECT_DIR$/../teketee_app/app/views/projects/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/views/news/letter.html.erb" afterPath="$PROJECT_DIR$/../sunward/app/views/news/letter.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/models/admin/mag.rb" afterPath="$PROJECT_DIR$/../sunward/app/models/admin/mag.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/assets/stylesheets/main.scss" afterPath="$PROJECT_DIR$/../sunward/app/assets/stylesheets/main.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fashion_site/zap/public/assets/manifest-6332b234506556d6d4bc772590e52af2.json" afterPath="$PROJECT_DIR$/../fashion_site/zap/public/assets/manifest-6332b234506556d6d4bc772590e52af2.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sphs/public/assets/manifest-7e65a37ff860d9d8f2ab4ba8f64f9bf4.json" afterPath="$PROJECT_DIR$/../sphs/public/assets/manifest-7e65a37ff860d9d8f2ab4ba8f64f9bf4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/meter_measure.iml" afterPath="$PROJECT_DIR$/.idea/meter_measure.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/meters_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/meters_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fashion_site/zap/.idea/misc.xml" afterPath="$PROJECT_DIR$/../fashion_site/zap/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/views/news/news.html.erb" afterPath="$PROJECT_DIR$/../sunward/app/views/news/news.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/models/admin/news.rb" afterPath="$PROJECT_DIR$/../sunward/app/models/admin/news.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/controllers/news_controller.rb" afterPath="$PROJECT_DIR$/../sunward/app/controllers/news_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/models/admin/news_letter.rb" afterPath="$PROJECT_DIR$/../sunward/app/models/admin/news_letter.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blog-master/app/models/post.rb" afterPath="$PROJECT_DIR$/../blog-master/app/models/post.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fashion_site/zap/app/models/post.rb" afterPath="$PROJECT_DIR$/../fashion_site/zap/app/models/post.rb" />
@@ -126,29 +140,27 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/models/admin/rcl.rb" afterPath="$PROJECT_DIR$/../sunward/app/models/admin/rcl.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blog-master/config/routes.rb" afterPath="$PROJECT_DIR$/../blog-master/config/routes.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/config/routes.rb" afterPath="$PROJECT_DIR$/../sunward/config/routes.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blog-master/db/schema.rb" afterPath="$PROJECT_DIR$/../blog-master/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../backups/zap/db/select likes.sql" afterPath="$PROJECT_DIR$/../../backups/zap/db/select likes.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" afterPath="$PROJECT_DIR$/app/helpers/sessions_helper.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/models/admin/sgb.rb" afterPath="$PROJECT_DIR$/../sunward/app/models/admin/sgb.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../backups/zap/app/views/everyone/eposts/show.html.erb" afterPath="$PROJECT_DIR$/../../backups/zap/app/views/everyone/eposts/show.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fashion_site/zap/app/views/posts/show.html.erb" afterPath="$PROJECT_DIR$/../fashion_site/zap/app/views/posts/show.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../teketee_app/app/views/tickets/show.html.erb" afterPath="$PROJECT_DIR$/../teketee_app/app/views/tickets/show.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/spec.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/spec.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sphs/app/assets/stylesheets/sphs.scss" afterPath="$PROJECT_DIR$/../sphs/app/assets/stylesheets/sphs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/controllers/staff_controller.rb" afterPath="$PROJECT_DIR$/../sunward/app/controllers/staff_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/.idea/sunward.iml" afterPath="$PROJECT_DIR$/../sunward/.idea/sunward.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/models/admin/teacher.rb" afterPath="$PROJECT_DIR$/../sunward/app/models/admin/teacher.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/models/admin/team.rb" afterPath="$PROJECT_DIR$/../sunward/app/models/admin/team.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sunward/app/views/sports/teams.html.erb" afterPath="$PROJECT_DIR$/../sunward/app/views/sports/teams.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../teketee_app/.idea/teketee_app.iml" afterPath="$PROJECT_DIR$/../teketee_app/.idea/teketee_app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/test.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/test.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../teketee_app/app/controllers/api/v2/json/tickets.rb" afterPath="$PROJECT_DIR$/../teketee_app/app/controllers/api/v2/json/tickets.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../teketee_app/app/controllers/tickets_controller.rb" afterPath="$PROJECT_DIR$/../teketee_app/app/controllers/tickets_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../blog-master/app/models/user.rb" afterPath="$PROJECT_DIR$/../blog-master/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sphs/app/models/user.rb" afterPath="$PROJECT_DIR$/../sphs/app/models/user.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fashion_site/zap/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../fashion_site/zap/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../teketee_app/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../teketee_app/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fashion_site/zap/.idea/zap.iml" afterPath="$PROJECT_DIR$/../fashion_site/zap/.idea/zap.iml" />
@@ -163,7 +175,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/meter_measure@application_helper.coverage" NAME="application_helper Coverage Results" MODIFIED="1410566296708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sunward/app/helpers" MODULE_NAME="sunward" />
+    <SUITE FILE_PATH="coverage/meter_measure@application_helper.coverage" NAME="application_helper Coverage Results" MODIFIED="1410624091264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sunward/app/helpers" MODULE_NAME="sunward" />
     <SUITE FILE_PATH="coverage/meter_measure@tester.coverage" NAME="tester Coverage Results" MODIFIED="1408128989838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sphs/app/controllers" MODULE_NAME="sphs" />
     <SUITE FILE_PATH="coverage/meter_measure@Development__meter_measure.coverage" NAME="Development: meter_measure Coverage Results" MODIFIED="1407564108283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="meter_measure" />
   </component>
@@ -178,105 +190,161 @@
     <favorites_list name="meter_measure" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6786922">
+    <splitter split-orientation="horizontal" split-proportion="0.3407258">
       <split-first>
         <leaf>
-          <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Gemfile">
+          <file leaf-file-name="_banner.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/layouts/_banner.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="650">
-                  <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="455">
-                  <caret line="1" column="8" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="application_controller.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="403">
-                  <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="user.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="351">
-                  <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+                <state vertical-scroll-proportion="-3.7916667" vertical-offset="0" max-vertical-offset="169">
+                  <caret line="7" column="72" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/config/routes.rb">
+            <entry file="file://$PROJECT_DIR$/../sunward/config/routes.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="988">
-                  <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="2236">
+                  <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="meters_controller.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/controllers/meters_controller.rb">
+          <file leaf-file-name="what_we_offer.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/what_we_offer.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="222" max-vertical-offset="793">
-                  <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+                <state vertical-scroll-proportion="-2.7083333" vertical-offset="0" max-vertical-offset="299">
+                  <caret line="5" column="151" selection-start-line="5" selection-start-column="151" selection-end-line="5" selection-end-column="151" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="create.json.rabl" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/views/meters/create.json.rabl">
+          <file leaf-file-name="_subjects.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/_subjects.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="169">
+                <state vertical-scroll-proportion="-22.166666" vertical-offset="40" max-vertical-offset="650">
+                  <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="achievements.html.erb" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/achievements.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.119266056" vertical-offset="0" max-vertical-offset="545">
+                  <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="metrics.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/metrics.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-2.7083333" vertical-offset="0" max-vertical-offset="299">
+                  <caret line="5" column="145" selection-start-line="5" selection-start-column="145" selection-end-line="5" selection-end-column="145" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="colours.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/colours.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-2.7083333" vertical-offset="0" max-vertical-offset="299">
+                  <caret line="5" column="145" selection-start-line="5" selection-start-column="145" selection-end-line="5" selection-end-column="145" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="cultural.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/cultural.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="78">
                   <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="get_last.json.rabl" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/views/meters/get_last.json.rabl">
+          <file leaf-file-name="hods.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/hods.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="169">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="416">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="10" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="get_newer.json.rabl" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/views/meters/get_newer.json.rabl">
+          <file leaf-file-name="sgbs.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/sgbs.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="169">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <state vertical-scroll-proportion="-5.4166665" vertical-offset="0" max-vertical-offset="429">
+                  <caret line="10" column="41" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="39" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.json.rabl" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/views/meters/index.json.rabl">
+          <file leaf-file-name="_side_menu.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/_side_menu.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.15582192" vertical-offset="0" max-vertical-offset="584">
-                  <caret line="7" column="72" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="208">
+                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="teachers.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/teachers.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.5416667" vertical-offset="0" max-vertical-offset="403">
+                  <caret line="1" column="41" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="41" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="letter.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/news/letter.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-1.625" vertical-offset="0" max-vertical-offset="1248">
+                  <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="rcls.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/rcls.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-2.1666667" vertical-offset="0" max-vertical-offset="416">
+                  <caret line="4" column="146" selection-start-line="4" selection-start-column="146" selection-end-line="4" selection-end-column="146" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="academics.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/academics.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="299">
+                  <caret line="0" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                  <folding>
+                    <marker date="1411266153261" expanded="true" signature="24:393" placeholder="..." />
+                    <marker date="1411266153261" expanded="true" signature="68:386" placeholder="..." />
+                    <marker date="1411266153261" expanded="true" signature="110:274" placeholder="..." />
+                    <marker date="1411266153261" expanded="true" signature="297:375" placeholder="..." />
+                    <marker date="1411266153261" expanded="true" signature="309:364" placeholder="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -285,21 +353,63 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="main.scss" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/../sunward/app/assets/stylesheets/main.scss">
+          <file leaf-file-name="_banner.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/layouts/_banner.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.29616088" vertical-offset="2425" max-vertical-offset="5382">
-                  <caret line="199" column="3" selection-start-line="199" selection-start-column="3" selection-end-line="199" selection-end-column="3" />
+                <state vertical-scroll-proportion="-1.625" vertical-offset="0" max-vertical-offset="169">
+                  <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_banner.html.erb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/../sunward/app/views/layouts/_banner.html.erb">
+          <file leaf-file-name="_side_menu.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/_side_menu.html.erb">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-3.7916667" vertical-offset="0" max-vertical-offset="169">
-                  <caret line="7" column="13" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+                <state vertical-scroll-proportion="-1.625" vertical-offset="0" max-vertical-offset="208">
+                  <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="about.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/about/about.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-28.583334" vertical-offset="1576" max-vertical-offset="3003">
+                  <caret line="174" column="24" selection-start-line="174" selection-start-column="11" selection-end-line="174" selection-end-column="11" />
+                  <folding>
+                    <element signature="e#6558#7069#0#RHTML" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="school_controller.rb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/school_controller.rb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+                  <caret line="5" column="2" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/index.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-2.7083333" vertical-offset="0" max-vertical-offset="299">
+                  <caret line="5" column="146" selection-start-line="5" selection-start-column="146" selection-end-line="5" selection-end-column="146" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_header.html.erb" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../sunward/app/views/layouts/_header.html.erb">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.33211008" vertical-offset="248" max-vertical-offset="832">
+                  <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
                   <folding />
                 </state>
               </provider>
@@ -316,62 +426,62 @@
   </component>
   <component name="Git.Settings">
     <option name="SYNC_SETTING" value="SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../sunward" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/../sunward/app/models/admin/available_sport.rb" />
-        <option value="$PROJECT_DIR$/../sunward/db/migrate/20140908011016_add_admin_available_sport_to_admin_team.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/teams/_form.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/controllers/admin/teams_controller.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/teams/index.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/sports/teams.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/controllers/sports_controller.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/results/edit.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/rcls/index.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/controllers/admin/base_controller.rb" />
-        <option value="$PROJECT_DIR$/../sunward/db/migrate/20140908021800_add_lose_to_results.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/controllers/admin/results_controller.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/results/new.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/base/champions.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/base/sport.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/results/index.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/results/_form.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/controllers/static_pages_controller.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/helpers/application_helper.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/mags/new.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/mags/index.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/mags/_form.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/mags/edit.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/controllers/mags_controller.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/controllers/admin/mags_controller.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/admin/base/_side_menu.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/mags/index.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/config/routes.rb" />
-        <option value="$PROJECT_DIR$/../sunward/Gemfile" />
-        <option value="$PROJECT_DIR$/../sunward/app/models/admin/champ.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/models/admin/groundsman.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/models/admin/hod.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/models/admin/mag.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/models/admin/news.rb" />
         <option value="$PROJECT_DIR$/../sunward/app/models/admin/news_letter.rb" />
         <option value="$PROJECT_DIR$/../sunward/app/models/admin/rcl.rb" />
         <option value="$PROJECT_DIR$/../sunward/app/models/admin/sgb.rb" />
         <option value="$PROJECT_DIR$/../sunward/app/models/admin/teacher.rb" />
         <option value="$PROJECT_DIR$/../sunward/app/models/admin/team.rb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/static_pages/index.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/static_pages/contact.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/layouts/_header.html.erb" />
-        <option value="$PROJECT_DIR$/../sunward/app/assets/stylesheets/main.scss" />
-        <option value="$PROJECT_DIR$/../sunward/app/views/layouts/_banner.html.erb" />
-        <option value="$PROJECT_DIR$/app/helpers/sessions_helper.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
-        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/helpers/sessions_helper.rb" />
+        <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
         <option value="$PROJECT_DIR$/app/controllers/meters_controller.rb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/layouts/_banner.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/about/_education.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/sports/teams.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/static_pages/contact.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/controllers/about_controller.rb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/shared/page_name.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/news/news.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/controllers/news_controller.rb" />
+        <option value="$PROJECT_DIR$/../sunward/app/controllers/staff_controller.rb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/static_pages/index.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/shared/_page_header,html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/staff/sgbs,html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/shared/_page_header.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/staff/sgbs.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/staff/hods.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/staff/teachers.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/staff/groundsmen.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/staff/rcls.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/staff/_side_menu.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/staff/index.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/assets/stylesheets/main.scss" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/layouts/_footer.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/news/letter.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/school/academics.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/about/about.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/school/_what_we_offer.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/school/achievements.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/school/_subjects.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/school/what_we_offer.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/school/metrics.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/school/colours.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/school/cultural.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/config/routes.rb" />
+        <option value="$PROJECT_DIR$/../sunward/app/controllers/school_controller.rb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/school/index.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/school/_side_menu.html.erb" />
+        <option value="$PROJECT_DIR$/../sunward/app/views/layouts/_header.html.erb" />
       </list>
     </option>
   </component>
@@ -414,135 +524,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meters" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="meter_measure" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="RailsProjectView">
         <subPane>
           <PATH>
@@ -609,6 +590,117 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meter_measure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meter_measure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sunward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meter_measure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sunward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meter_measure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sunward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meter_measure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sunward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="school" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meter_measure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sunward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="about" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="meter_measure" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sunward" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -617,7 +709,7 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="project.settings.patched" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="user&#9;FILE&#9;file:///home/Divine/projects/rails_projects/meter_measure/app/models/user.rb&#10;ma&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/assets/stylesheets/main.scss&#10;header&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/layouts/_header.html.erb&#10;rout&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/config/routes.rb&#10;about&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/about/about.html.erb&#10;rou&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/config/routes.rb&#10;route&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/config/routes.rb&#10;hea&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/layouts/_header.html.erb&#10;main&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/assets/stylesheets/main.scss&#10;footer&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/layouts/_footer.html.erb&#10;add_con&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/db/migrate/20140831155957_add_contacts_field_to_msg.rb&#10;head&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/layouts/_header.html.erb&#10;news&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/controllers/news_controller.rb&#10;grou&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/models/admin/groundsman.rb&#10;teach&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/models/admin/teacher.rb&#10;routes&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/config/routes.rb&#10;foo&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/layouts/_footer.html.erb&#10;field&#9;FILE&#9;file:///home/Divine/projects/rails_projects/blog-master/app/views/shared/_field.html.erb&#10;_field&#9;FILE&#9;file:///home/Divine/projects/rails_projects/blog-master/app/views/shared/_field.html.erb&#10;index&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/views/achievements/index.html.erb&#10;bootpl&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/assets/stylesheets/bootplus.css&#10;bootplu&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/assets/stylesheets/bootplus.css&#10;bootplus&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/assets/stylesheets/bootplus.css&#10;sphs&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/assets/stylesheets/sphs.scss&#10;applica&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/views/layouts/application.html.erb&#10;_header&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/views/shared/_header.html.erb&#10;sett&#9;ACTION&#9;Database.Settings&#10;sess&#9;FILE&#9;file:///home/Divine/projects/rails_projects/meter_measure/app/helpers/sessions_helper.rb&#10;meter&#9;null&#9;null&#10;Us&#9;FILE&#9;file:///home/Divine/projects/rails_projects/meter_measure/app/models/user.rb&#10;Module&#9;ACTION&#9;ExtractModule&#10;doc&#9;ACTION&#9;ExternalJavaDoc" />
+    <property name="SearchEverywhereHistoryKey" value="header&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/layouts/_header.html.erb&#10;about&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/about/about.html.erb&#10;schoo&#9;null&#9;null&#10;route&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/config/routes.rb&#10;main&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/assets/stylesheets/main.scss&#10;user&#9;FILE&#9;file:///home/Divine/projects/rails_projects/meter_measure/app/models/user.rb&#10;ma&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/assets/stylesheets/main.scss&#10;rout&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/config/routes.rb&#10;rou&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/config/routes.rb&#10;hea&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/layouts/_header.html.erb&#10;footer&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/layouts/_footer.html.erb&#10;add_con&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/db/migrate/20140831155957_add_contacts_field_to_msg.rb&#10;head&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/layouts/_header.html.erb&#10;news&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/controllers/news_controller.rb&#10;grou&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/models/admin/groundsman.rb&#10;teach&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/models/admin/teacher.rb&#10;routes&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/config/routes.rb&#10;foo&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sunward/app/views/layouts/_footer.html.erb&#10;field&#9;FILE&#9;file:///home/Divine/projects/rails_projects/blog-master/app/views/shared/_field.html.erb&#10;_field&#9;FILE&#9;file:///home/Divine/projects/rails_projects/blog-master/app/views/shared/_field.html.erb&#10;index&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/views/achievements/index.html.erb&#10;bootpl&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/assets/stylesheets/bootplus.css&#10;bootplu&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/assets/stylesheets/bootplus.css&#10;bootplus&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/assets/stylesheets/bootplus.css&#10;sphs&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/assets/stylesheets/sphs.scss&#10;applica&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/views/layouts/application.html.erb&#10;_header&#9;FILE&#9;file:///home/Divine/projects/rails_projects/sphs/app/views/shared/_header.html.erb&#10;sett&#9;ACTION&#9;Database.Settings&#10;sess&#9;FILE&#9;file:///home/Divine/projects/rails_projects/meter_measure/app/helpers/sessions_helper.rb&#10;meter&#9;null&#9;null&#10;Us&#9;FILE&#9;file:///home/Divine/projects/rails_projects/meter_measure/app/models/user.rb&#10;Module&#9;ACTION&#9;ExtractModule&#10;doc&#9;ACTION&#9;ExternalJavaDoc" />
     <property name="options.lastSelected" value="appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -943,21 +1035,21 @@
     <frame x="-2" y="-3" width="1370" height="751" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32569557" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733223" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32512316" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32676518" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3218391" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854986" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33006042" sideWeight="0.4977307" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25075528" sideWeight="0.4977307" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39908952" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22205438" sideWeight="0.50075644" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32242227" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32436708" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32405892" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32283464" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32242227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3267776" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
@@ -965,11 +1057,11 @@
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32569557" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32512316" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32676518" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32733223" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32242227" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854986" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39908952" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22205438" sideWeight="0.50075644" order="1" side_tool="true" content_ui="tabs" />
@@ -979,10 +1071,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3776435" sideWeight="0.4977307" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32755905" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20090635" sideWeight="0.4977307" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32405892" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1007,423 +1099,426 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/hod.rb">
+    <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="143">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/champ.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="156">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/event.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="182">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/mag.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="143">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/news.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="130">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/news_letter.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="234">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/rcl.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="130">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/result.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="104">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/sgb.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="130">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/state.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="104">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/teacher.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="143">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/models/admin/team.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="260">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="156" max-vertical-offset="871">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/sports/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="104">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/mags_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="182">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/mags/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="104">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/admin/base/msgs.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="468">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/admin/results/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="481">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/admin/results_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="261" max-vertical-offset="832">
-          <caret line="55" column="60" selection-start-line="55" selection-start-column="60" selection-end-line="55" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/admin/rcls/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="975">
-          <caret line="9" column="20" selection-start-line="2" selection-start-column="0" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/admin/rcls/edit.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="377">
-          <caret line="7" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/admin/events/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="299" max-vertical-offset="455">
-          <caret line="23" column="6" selection-start-line="21" selection-start-column="4" selection-end-line="24" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/admin/available_sports_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="728" max-vertical-offset="845">
-          <caret line="56" column="62" selection-start-line="56" selection-start-column="62" selection-end-line="56" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/admin/teams_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="287" max-vertical-offset="858">
-          <caret line="57" column="71" selection-start-line="57" selection-start-column="71" selection-end-line="57" selection-end-column="71" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/admin/teams/_form.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="507">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/db/migrate/20140908011016_add_admin_available_sport_to_admin_team.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="91" max-vertical-offset="169">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/db/migrate/20140908021800_add_lose_to_results.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="65" max-vertical-offset="143">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/db/migrate/20140908032453_create_admin_mags.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="143" max-vertical-offset="221">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/db/migrate/20140908032617_add_attachment_face_to_admin_mags.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/admin/states_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="469" max-vertical-offset="1040">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/admin/events_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="104" max-vertical-offset="1118">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/admin/events/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="507">
-          <caret line="32" column="44" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-          <folding>
-            <marker date="1410006247752" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1410006247752" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1410006247752" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1410006247752" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1410006247752" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1410006247752" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1410006247752" expanded="true" signature="-1:-1" placeholder="..." />
-            <marker date="1410006247752" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/admin/teams/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="819">
-          <caret line="57" column="0" selection-start-line="34" selection-start-column="68" selection-end-line="57" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/admin/teachers/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="416" max-vertical-offset="585">
-          <caret line="32" column="77" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/admin/champs/edit.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/static_pages/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1794" max-vertical-offset="3601">
-          <caret line="199" column="14" selection-start-line="199" selection-start-column="14" selection-end-line="199" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/static_pages/contact.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1456">
-          <caret line="30" column="25" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/layouts/_header.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="220" max-vertical-offset="1287">
-          <caret line="60" column="37" selection-start-line="60" selection-start-column="13" selection-end-line="60" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/migrate/20140912161210_add_password_to_user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="143">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="650">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/views/layouts/_banner.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.7916667" vertical-offset="0" max-vertical-offset="169">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sunward/app/assets/stylesheets/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29616088" vertical-offset="2425" max-vertical-offset="5382">
-          <caret line="199" column="3" selection-start-line="199" selection-start-column="3" selection-end-line="199" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/user.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="351">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="117">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="455">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="403">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="559">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="988">
-          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.2513181" vertical-offset="0" max-vertical-offset="569">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <folding>
+            <element signature="e#30#2097#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18277681" vertical-offset="0" max-vertical-offset="569">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sphs/app/assets/stylesheets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="562" max-vertical-offset="1131">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/meters_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="222" max-vertical-offset="793">
-          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="793">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/meters/create.json.rabl">
+    <entry file="file://$PROJECT_DIR$/../sunward/app/assets/images/emble.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/sports_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/meters/get_last.json.rabl">
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
+        <state vertical-scroll-proportion="-13.541667" vertical-offset="0" max-vertical-offset="559">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/about/_education.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/meters/get_newer.json.rabl">
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/about/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="584">
+        <state vertical-scroll-proportion="0.48924732" vertical-offset="0" max-vertical-offset="558">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/about/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/meters/index.json.rabl">
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/sports/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15582192" vertical-offset="0" max-vertical-offset="584">
-          <caret line="7" column="72" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/sports/news.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/sports/teams.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.375" vertical-offset="105" max-vertical-offset="663">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/static_pages/contact.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1482">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../teketee_app/app/views/shared/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="569">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../teketee_app/app/views/tags/remove.js.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="582">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../teketee_app/app/views/tags/_tag.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="569">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../teketee_app/app/views/files/_form.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.04659498" vertical-offset="0" max-vertical-offset="558">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/news_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2513181" vertical-offset="0" max-vertical-offset="569">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/static_pages/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2795699" vertical-offset="0" max-vertical-offset="558">
+          <caret line="58" column="39" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+          <folding>
+            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#0" expanded="false" />
+            <element signature="tag#div#3;tag#div#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/shared/_page_name.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11648746" vertical-offset="0" max-vertical-offset="558">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/news/news.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5706422" vertical-offset="248" max-vertical-offset="793">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/hods.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="416">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/sgbs.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.4166665" vertical-offset="0" max-vertical-offset="429">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/shared/_page_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.119266056" vertical-offset="0" max-vertical-offset="545">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/about_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5254833" vertical-offset="0" max-vertical-offset="611">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/rcls.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.1666667" vertical-offset="0" max-vertical-offset="416">
+          <caret line="4" column="146" selection-start-line="4" selection-start-column="146" selection-end-line="4" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/staff_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="546">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/teachers.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.5416667" vertical-offset="0" max-vertical-offset="403">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/layouts/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31009173" vertical-offset="390" max-vertical-offset="1001">
+          <caret line="43" column="43" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/assets/stylesheets/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="30.375" vertical-offset="4174" max-vertical-offset="6409">
+          <caret line="265" column="4" selection-start-line="265" selection-start-column="4" selection-end-line="265" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/news/letter.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.625" vertical-offset="0" max-vertical-offset="1248">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="545">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/_side_menu.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/staff/groundsmen.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5963303" vertical-offset="0" max-vertical-offset="545">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/layouts/_banner.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.625" vertical-offset="0" max-vertical-offset="169">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/about/about.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-28.583334" vertical-offset="1576" max-vertical-offset="3003">
+          <caret line="174" column="24" selection-start-line="174" selection-start-column="11" selection-end-line="174" selection-end-column="11" />
+          <folding>
+            <element signature="e#6558#7069#0#RHTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/academics.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="299">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <marker date="1411266153261" expanded="true" signature="24:393" placeholder="..." />
+            <marker date="1411266153261" expanded="true" signature="68:386" placeholder="..." />
+            <marker date="1411266153261" expanded="true" signature="110:274" placeholder="..." />
+            <marker date="1411266153261" expanded="true" signature="297:375" placeholder="..." />
+            <marker date="1411266153261" expanded="true" signature="309:364" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/_subjects.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.166666" vertical-offset="40" max-vertical-offset="650">
+          <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/what_we_offer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7083333" vertical-offset="0" max-vertical-offset="299">
+          <caret line="5" column="151" selection-start-line="5" selection-start-column="151" selection-end-line="5" selection-end-column="151" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/metrics.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7083333" vertical-offset="0" max-vertical-offset="299">
+          <caret line="5" column="145" selection-start-line="5" selection-start-column="145" selection-end-line="5" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/colours.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7083333" vertical-offset="0" max-vertical-offset="299">
+          <caret line="5" column="145" selection-start-line="5" selection-start-column="145" selection-end-line="5" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/cultural.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="558">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/controllers/school_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="2236">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7083333" vertical-offset="0" max-vertical-offset="299">
+          <caret line="5" column="146" selection-start-line="5" selection-start-column="146" selection-end-line="5" selection-end-column="146" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/_side_menu.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.625" vertical-offset="0" max-vertical-offset="208">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/school/achievements.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.119266056" vertical-offset="0" max-vertical-offset="545">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sunward/app/views/layouts/_header.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33211008" vertical-offset="248" max-vertical-offset="832">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
           <folding />
         </state>
       </provider>

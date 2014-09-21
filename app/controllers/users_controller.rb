@@ -19,8 +19,16 @@ class UsersController < ApplicationController
   end 
 
   def me #probaly must hash the password first but later relax
-    @user = User.find(params[:email][:password])
-    to_my_json(@user)
+
+    puts user_params
+    @user = User.find_by_email(user_params[:email])
+    user_password =  user_params[:password]
+    if @user.password == user_password && @user.nil? != true
+      to_my_json(@user)
+    else
+      my_json_error
+      end
+
   end
 
   def user_params

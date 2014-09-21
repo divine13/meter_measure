@@ -4,11 +4,11 @@ class MetersController < ApplicationController
 
 
   def index
-  	@meters = current_user(params[:email]).meters.build if signed_in?(params[:email])
+  	@meters = User.find_by_remember_token(params[:token]).meters.build if signed_in?(params[:token])
   end
 
   def create 
-  	@meter =  current_user(params[:email]).meters.new(meter_params)
+  	@meter =  User.find_by_remember_token(params[:token]).meters.new(meter_params)
   	if @meter.save
   		@meter 
   	else 
@@ -23,7 +23,7 @@ class MetersController < ApplicationController
 
   def get_newer
     #suppose to return all that the user has followed but not that he has done
-    @newer =  current_user(params[:email]).meters.where("'#{params[:phone_id]}' != phone_id")
+    @newer =  User.find_by_remember_token(params[:token]).meters.where("'#{params[:phone_id]}' != phone_id")
   end 
 
   def get_last #It would be much more efficient if i only got the created_at 
@@ -42,7 +42,7 @@ class MetersController < ApplicationController
   end 
 
   def check 
-    @check = current_user(params[:email]).meters.where("'#{params[:phone_id]}' != phone_id").count
+    @check = User.find_by_remember_token(params[:token]).meters.where("'#{params[:phone_id]}' != phone_id").count
      #if 0 then this means that nothing was uploaded by this another besides this one 
           render status: :ok,  
          text: @check

@@ -1,14 +1,14 @@
 Rails.application.routes.draw do
 
-  resource :users, only: [:create]
+  post 'users/' => 'users#create'
 
-  put 'users/:email/:password' => 'users#me'
+  post 'users/me' => 'users#me', as: 'get_user'
 
-  get 'meters' => 'meters#index', as: 'meters' 
-  get 'meters/last' => 'meters#get_last', as: 'last_meter' #remove this 
-  post 'meters' => 'meters#create'
-  put 'meters/:phone_id/newer' => 'meters#get_newer', as: 'newer_meters' 
-  put 'meters/:phone_id/check_for_me' => 'meters#check', as: 'check_meters' 
+  get ':token/meters' => 'meters#index', as: 'meters'
+  get ':token/meters/last' => 'meters#get_last', as: 'last_meter' #remove this
+  post ':token/meters' => 'meters#create'
+  put ':token/meters/:phone_id/newer' => 'meters#get_newer', as: 'newer_meters'
+  put ':token/meters/:phone_id/check_for_me' => 'meters#check', as: 'check_meters'
   
   # match 'signup' => 'users#new' 
   # get 'signin' => 'sessions#new'
