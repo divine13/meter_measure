@@ -11,10 +11,24 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140912161210) do
+ActiveRecord::Schema.define(version: 20140923192058) do
 
-# Could not dump table "meters" because of following NoMethodError
-#   undefined method `[]' for nil:NilClass
+  create_table "meters", force: true do |t|
+    t.string   "day"
+    t.string   "time"
+    t.integer  "reading"
+    t.string   "note"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.text     "made_at"
+    t.boolean  "downloaded",      default: false
+    t.boolean  "uploaded",        default: false
+    t.text     "phone_id",        default: "unknown-z-z1x"
+    t.integer  "_id"
+    t.integer  "user_id"
+    t.string   "meter_number"
+    t.integer  "people_in_house"
+  end
 
   create_table "users", force: true do |t|
     t.string   "name"
@@ -25,6 +39,8 @@ ActiveRecord::Schema.define(version: 20140912161210) do
     t.string   "remember_token"
     t.integer  "meter_id"
     t.text     "password"
+    t.string   "meter_number"
+    t.string   "people_in_house"
   end
 
   add_index "users", ["email"], name: "index_users_on_email", unique: true
